@@ -1,0 +1,400 @@
+{
+    "update_time": "2023-7-25 12:12:12",
+    "author": "Luna Gao",
+    "email": "gao.xue.qi1@gmail.com",
+    "support_version": ">=1.0.0 <2.0.0",
+    "title": [
+        {"en": "Alphabet"},
+        {"zh": "英文字母表"}
+    ],
+    "tag": [
+        {"en": "English"},
+        {"zh": "英语"}
+    ],
+    "description": [
+        {"en": "This is description values.This is description values.This is description values.This is description values.This is description values."},
+        {"zh": "这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。"}
+    ],
+    "value_type": [
+        {
+            "type": "UpperCase",
+            "display_name": [
+                {"en": "Upper Case Letters"},
+                {"zh": "大写字母"}
+            ]
+        },
+        {
+            "type": "LowerCase",
+            "display_name": [
+                {"en": "Lower Case Letters"},
+                {"zh": "小写字母"}
+            ]
+        }
+    ],
+    "values": [
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "A",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "a",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "B",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "b",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "C",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "c",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "D",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "d",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "E",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "e",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "F",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "f",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "G",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "g",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "H",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "h",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "I",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "i",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "J",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "j",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "K",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "k",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "L",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "l",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "M",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "m",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "N",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "n",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "O",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "o",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "P",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "p",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "Q",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "q",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "R",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "r",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "S",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "s",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "T",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "t",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "U",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "u",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "V",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "v",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "W",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "w",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "X",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "x",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "Y",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "y",
+                    "type": "LowerCase"
+                }
+            ]
+        },
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "Z",
+                    "type": "UpperCase"
+                },
+                {
+                    "image": null,
+                    "value": "z",
+                    "type": "LowerCase"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "update_time": "2023-7-25 12:12:12",
+    "author": "Luna Gao",
+    "email": "gao.xue.qi1@gmail.com",
+    "support_version": ">=1.0.0 <2.0.0",
+    "title": [
+        {"en": "<Chinese> Grade One A"},
+        {"zh": "《语文》一年级上册"}
+    ],
+    "tag": [
+        {"en": "Chinese"},
+        {"zh": "语文"}
+    ],
+    "description": [
+        {"en": "This is description values.This is description values.This is description values.This is description values.This is description values."},
+        {"zh": "这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。"}
+    ],
+    "value_type": [],
+    "values": [
+        {
+            "value": [
+                {
+                    "image": null,
+                    "value": "天",
+                    "type": null
+                }
+            ]
+        }
+    ]
+}
