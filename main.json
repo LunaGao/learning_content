@@ -1,0 +1,36 @@
+{
+    "update_time": "2023-7-25 12:12:12",
+    "support_version": ">=1.0.0 <2.0.0",
+    "values": [
+        {
+            "image":[
+                {"en": "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF"},
+                {"zh": "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF"}
+            ],
+            "tag": [
+                {"en": "Chinese"},
+                {"zh": "文字"}
+            ],
+            "title": [
+                {"en": "Chinese"},
+                {"zh": "《语文》一年级上册"}
+            ],
+            "link": ""
+        },
+        {
+            "image":[
+                {"en": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF"},
+                {"zh": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF"}
+            ],
+            "tag": [
+                {"en": "English"},
+                {"zh": "英语"}
+            ],
+            "title": [
+                {"en": "Alphabet"},
+                {"zh": "英文字母表"}
+            ],
+            "link": ""
+        }
+    ]
+}
