@@ -3,31 +3,71 @@
     "author": "Luna Gao",
     "email": "gao.xue.qi1@gmail.com",
     "support_version": ">=1.0.0 <2.0.0",
+    "image": [
+        {
+            "key": "en",
+            "value": "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF"
+        },
+        {
+            "key": "zh",
+            "value": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF"
+        }
+    ],
     "title": [
-        {"en": "Alphabet"},
-        {"zh": "英文字母表"}
+        {
+            "key": "en",
+            "value": "Alphabet"
+        },
+        {
+            "key": "zh",
+            "value": "英文字母表"
+        }
     ],
     "tag": [
-        {"en": "English"},
-        {"zh": "英语"}
+        {
+            "key": "en",
+            "value": "English"
+        },
+        {
+            "key": "zh",
+            "value": "英语"
+        }
     ],
     "description": [
-        {"en": "This is description values.This is description values.This is description values.This is description values.This is description values."},
-        {"zh": "这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。"}
+        {
+            "key": "en",
+            "value": "This is description values.This is description values.This is description values.This is description values.This is description values."
+        },
+        {
+            "key": "zh",
+            "value": "这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。"
+        }
     ],
     "value_type": [
         {
             "type": "UpperCase",
             "display_name": [
-                {"en": "Upper Case Letters"},
-                {"zh": "大写字母"}
+                {
+                    "key": "en",
+                    "value": "Upper Case Letters"
+                },
+                {
+                    "key": "zh",
+                    "value": "大写字母"
+                }
             ]
         },
         {
             "type": "LowerCase",
             "display_name": [
-                {"en": "Lower Case Letters"},
-                {"zh": "小写字母"}
+                {
+                    "key": "en",
+                    "value": "Lower Case Letters"
+                },
+                {
+                    "key": "zh",
+                    "value": "小写字母"
+                }
             ]
         }
     ],
