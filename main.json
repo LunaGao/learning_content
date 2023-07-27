@@ -33,6 +33,7 @@
                     "value": "《语文》一年级上册"
                 }
             ],
+            "version": 1,
             "link": ""
         },
         {
@@ -66,6 +67,7 @@
                     "value": "英文字母表"
                 }
             ],
+            "version": 1,
             "link": "/English/alphabet.json"
         }
     ]
