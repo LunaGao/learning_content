@@ -4,6 +4,7 @@
     "email": "gao.xue.qi1@gmail.com",
     "support_version": ">=1.0.0 <2.0.0",
     "version": 1,
+    "uuid": "d69bff01-ae10-464e-bcb2-d9af6329d754",
     "image": [
         {
             "key": "en",
