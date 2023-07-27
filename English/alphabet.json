@@ -74,368 +74,264 @@
     ],
     "values": [
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "A",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "a",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "A",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "B",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "b",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "a",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "C",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "c",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "B",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "D",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "d",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "b",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "E",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "e",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "C",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "F",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "f",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "c",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "G",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "g",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "D",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "H",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "h",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "d",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "I",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "i",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "E",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "J",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "j",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "e",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "K",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "k",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "F",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "L",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "l",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "f",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "M",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "m",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "G",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "N",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "n",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "g",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "O",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "o",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "H",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "P",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "p",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "h",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "Q",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "q",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "I",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "R",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "r",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "i",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "S",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "s",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "J",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "T",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "t",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "j",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "U",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "u",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "K",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "V",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "v",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "k",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "W",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "w",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "L",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "X",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "x",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "l",
+            "type": "LowerCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "Y",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "y",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "M",
+            "type": "UpperCase"
         },
         {
-            "value": [
-                {
-                    "image": null,
-                    "value": "Z",
-                    "type": "UpperCase"
-                },
-                {
-                    "image": null,
-                    "value": "z",
-                    "type": "LowerCase"
-                }
-            ]
+            "image": null,
+            "value": "m",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "N",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "n",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "O",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "o",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "P",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "p",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "Q",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "q",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "R",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "r",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "S",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "s",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "T",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "t",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "U",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "u",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "V",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "v",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "W",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "w",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "X",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "x",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "Y",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "y",
+            "type": "LowerCase"
+        },
+        {
+            "image": null,
+            "value": "Z",
+            "type": "UpperCase"
+        },
+        {
+            "image": null,
+            "value": "z",
+            "type": "LowerCase"
         }
     ]
 }
