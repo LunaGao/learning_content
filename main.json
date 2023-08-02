@@ -74,6 +74,40 @@
             "image":[
                 {
                     "key": "en",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese2A.png"
+                },
+                {
+                    "key": "zh",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese2A.png"
+                }
+            ],
+            "tag": [
+                {
+                    "key": "en",
+                    "value": "Alphabet"
+                },
+                {
+                    "key": "zh",
+                    "value": "识字表"
+                }
+            ],
+            "title": [
+                {
+                    "key": "en",
+                    "value": "Chinese 2A Alphabet"
+                },
+                {
+                    "key": "zh",
+                    "value": "语文二年级上册识字表"
+                }
+            ],
+            "version": 1,
+            "link": "/Chinese/yuwen_2_a_ren.json"
+        },
+        {
+            "image":[
+                {
+                    "key": "en",
                     "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
                 },
                 {

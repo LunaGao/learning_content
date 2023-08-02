@@ -1,0 +1,1556 @@
+{
+    "update_time": "2023-08-02 03:25:14",
+    "author": "Luna Gao",
+    "email": "gao.xue.qi1@gmail.com",
+    "support_version": ">=1.0.0 <2.0.0",
+    "version": 1,
+    "uuid": "923ef197-d601-461f-972e-d9680e23083a",
+    "image": [
+        {
+            "key": "en",
+            "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese2A.png"
+        },
+        {
+            "key": "zh",
+            "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese2A.png"
+        }
+    ],
+    "title": [
+        {
+            "key": "en",
+            "value": "Chinese 2A Alphabet"
+        },
+        {
+            "key": "zh",
+            "value": "语文二年级上册识字表"
+        }
+    ],
+    "tag": [
+        {
+            "key": "en",
+            "value": "Alphabet"
+        },
+        {
+            "key": "zh",
+            "value": "识字表"
+        }
+    ],
+    "description": [
+        {
+            "key": "en",
+            "value": "The literacy table is the words that students are required to know. The first lesson of Chinese teaching in the lower grades has a very clear teaching goal - to recognize new words. During the first class hour teaching of the lectures, the task of memorizing new characters was not well implemented. The performance is as follows: when teaching students characters, various forms of recognition and reading are ignored, the analysis of fonts and understanding of meanings are ignored, the time for memorizing new characters is short, and the teaching is not in-depth. In the analysis of the text, the positioning of the teaching objectives is not allowed."
+        },
+        {
+            "key": "zh",
+            "value": "识字表中是要求学生认识的字。低年级语文教学第一课时有一个非常明确的教学目标--认识生字。所听之课在第一课时教学时，都没有落实好生字识记任务。表现为:在教学生字时，忽略了多种形式的认读，忽视了分析字形和理解字义，生字识记时间短，教学不深入，而后便进行阅读教学，重点放在品词析句，理解分析课文上，造成教学目标定位不准。"
+        }
+    ],
+    "value_type": [],
+    "values": [
+        {
+            "image": null,
+            "value": "天",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "地",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "人",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "你",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "我",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "他",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "一",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "二",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "三",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "四",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "五",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "上",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "下",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "口",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "耳",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "目",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "手",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "足",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "站",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "坐",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "日",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "月",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "水",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "火",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "山",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "石",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "田",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "禾",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "对",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "云",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "雨",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "风",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "花",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "鸟",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "虫",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "六",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "七",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "八",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "九",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "十",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "爸",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "妈",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "马",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "土",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "不",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "画",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "打",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "棋",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "鸡",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "字",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "词",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "语",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "句",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "子",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "桌",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "纸",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "文",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "数",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "学",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "音",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "乐",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "妹",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "奶",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "小",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "桥",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "台",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "雪",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "儿",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "白",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "草",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "家",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "是",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "车",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "路",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "灯",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "走",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "秋",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "气",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "了",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "树",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "叶",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "片",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "大",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "飞",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "会",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "个",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "的",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "船",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "两",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "头",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "在",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "里",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "看",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "见",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "闪",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "星",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "江",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "南",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "可",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "采",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "莲",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "鱼",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "东",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "西",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "北",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "尖",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "说",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "春",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "青",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "蛙",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "夏",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "弯",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "皮",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "冬",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "男",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "女",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "开",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "关",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "正",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "反",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "远",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "有",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "色",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "近",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "听",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "无",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "声",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "去",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "还",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "来",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "多",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "少",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "黄",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "牛",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "只",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "猫",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "边",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "鸭",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "苹",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "果",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "杏",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "桃",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "书",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "包",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "尺",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "作",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "业",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "本",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "笔",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "刀",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "课",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "早",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "校",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "明",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "力",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "尘",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "从",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "众",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "双",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "木",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "林",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "森",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "条",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "心",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "升",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "国",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "旗",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "中",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "红",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "歌",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "起",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "么",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "美",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "丽",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "立",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "午",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "晚",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "昨",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "今",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "年",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "影",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "前",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "后",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "黑",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "狗",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "左",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "右",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "它",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "好",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "朋",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "友",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "比",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "尾",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "巴",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "谁",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "长",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "短",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "把",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "伞",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "兔",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "最",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "公",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "写",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "诗",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "点",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "要",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "过",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "给",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "当",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "串",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "们",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "以",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "成",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "彩",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "半",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "空",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "问",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "到",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "方",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "没",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "更",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "绿",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "出",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "长",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "睡",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "那",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "海",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "真",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "老",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "师",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "吗",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "同",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "什",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "才",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "亮",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "时",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "候",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "觉",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "得",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "自",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "己",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "很",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "穿",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "衣",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "服",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "门",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "快",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "蓝",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "又",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "笑",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "向",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "和",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "贝",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "娃",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "挂",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "活",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "金",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "哥",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "姐",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "弟",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "叔",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "爷",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "群",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "竹",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "牙",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "用",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "几",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "步",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "为",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "参",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "加",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "洞",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "着",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "乌",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "鸦",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "处",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "找",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "办",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "旁",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "许",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "法",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "放",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "进",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "高",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "住",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "孩",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "玩",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "吧",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "发",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "芽",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "爬",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "呀",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "久",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "回",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "全",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "变",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "工",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "厂",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "医",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "院",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "生",
+            "type": ""
+        }
+    ]
+}
