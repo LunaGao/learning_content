@@ -81,7 +81,7 @@
         {
             "image": null,
             "value": "A",
-            "type": "UpperCase"
+            "type": "UpperCase" // can not be null, if there is none type, please use ""
         },
         {
             "image": null,
