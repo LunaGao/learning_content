@@ -8,7 +8,7 @@
     "email": "gao.xue.qi1@gmail.com",
     "support_version": ">=1.0.0 <2.0.0",
     "version": 1,
-    "uuid": "d69bff01-ae10-464e-bcb2-d9af6329d754", // 可由此生成： https://1024tools.com/uuid
+    "uuid": "8c8ad22c-345a-4dcb-b751-0f2adf801197", // 可由此生成： https://1024tools.com/uuid
     "image": [
         {
             "key": "en",
