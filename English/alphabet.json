@@ -1,5 +1,5 @@
 {
-    "update_time": "2023-07-25 12:13:14",
+    "update_time": "2023-08-01 03:25:14",
     "author": "Luna Gao",
     "email": "gao.xue.qi1@gmail.com",
     "support_version": ">=1.0.0 <2.0.0",
@@ -8,17 +8,17 @@
     "image": [
         {
             "key": "en",
-            "value": "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF"
+            "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
         },
         {
             "key": "zh",
-            "value": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF"
+            "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
         }
     ],
     "title": [
         {
             "key": "en",
-            "value": "Alphabet"
+            "value": "English Alphabet"
         },
         {
             "key": "zh",
@@ -38,11 +38,11 @@
     "description": [
         {
             "key": "en",
-            "value": "This is description values.This is description values.This is description values.This is description values.This is description values."
+            "value": "Five of the letters in the English Alphabet are vowels: A, E, I, O, U. The remaining 21 letters are consonants: B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, X, Z, and usually W and Y."
         },
         {
             "key": "zh",
-            "value": "这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。这里是简介。"
+            "value": "英语字母表中有 5 个字母是元音：A、E、I、O、U。其余 21 个字母是辅音：B、C、D、F、G、H、J、K、L、M、N、 P、Q、R、S、T、V、X、Z，通常还有 W 和 Y。"
         }
     ],
     "value_type": [

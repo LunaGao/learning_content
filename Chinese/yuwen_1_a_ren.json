@@ -1,8 +1,10 @@
 {
-    "update_time": "2023-7-25 12:12:12",
+    "update_time": "2023-08-01 03:25:14",
     "author": "Luna Gao",
     "email": "gao.xue.qi1@gmail.com",
     "support_version": ">=1.0.0 <2.0.0",
+    "version": 1,
+    "uuid": "4e5219e9-9108-4faa-a012-2522d5bd373d",
     "title": [
         {"en": "<Chinese> Grade One A"},
         {"zh": "《语文》一年级上册"}

@@ -6,11 +6,11 @@
             "image":[
                 {
                     "key": "en",
-                    "value": "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF"
+                    "value": ""
                 },
                 {
                     "key": "zh",
-                    "value": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF"
+                    "value": ""
                 }
             ],
             "tag": [
@@ -40,11 +40,11 @@
             "image":[
                 {
                     "key": "en",
-                    "value": "https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF"
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
                 },
                 {
                     "key": "zh",
-                    "value": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF"
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
                 }
             ],
             "tag": [
@@ -60,14 +60,47 @@
             "title": [
                 {
                     "key": "en",
-                    "value": "Alphabet"
+                    "value": "English Alphabet"
                 },
                 {
                     "key": "zh",
                     "value": "英文字母表"
                 }
             ],
-            "version": 1,
+            "version": 2,
+            "link": "/English/alphabet.json"
+        },{
+            "image":[
+                {
+                    "key": "en",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
+                },
+                {
+                    "key": "zh",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
+                }
+            ],
+            "tag": [
+                {
+                    "key": "en",
+                    "value": "English"
+                },
+                {
+                    "key": "zh",
+                    "value": "英语"
+                }
+            ],
+            "title": [
+                {
+                    "key": "en",
+                    "value": "English Alphabet"
+                },
+                {
+                    "key": "zh",
+                    "value": "英文字母表"
+                }
+            ],
+            "version": 2,
             "link": "/English/alphabet.json"
         }
     ]
