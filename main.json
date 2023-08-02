@@ -40,6 +40,40 @@
             "image":[
                 {
                     "key": "en",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese1B.png"
+                },
+                {
+                    "key": "zh",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese1B.png"
+                }
+            ],
+            "tag": [
+                {
+                    "key": "en",
+                    "value": "Alphabet"
+                },
+                {
+                    "key": "zh",
+                    "value": "识字表"
+                }
+            ],
+            "title": [
+                {
+                    "key": "en",
+                    "value": "Chinese 1B Alphabet"
+                },
+                {
+                    "key": "zh",
+                    "value": "语文一年级下册识字表"
+                }
+            ],
+            "version": 1,
+            "link": "/Chinese/yuwen_1_b_ren.json"
+        },
+        {
+            "image":[
+                {
+                    "key": "en",
                     "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
                 },
                 {
