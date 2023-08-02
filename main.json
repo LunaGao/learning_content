@@ -6,35 +6,35 @@
             "image":[
                 {
                     "key": "en",
-                    "value": ""
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese1A.png"
                 },
                 {
                     "key": "zh",
-                    "value": ""
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Chinese/chinese1A.png"
                 }
             ],
             "tag": [
                 {
                     "key": "en",
-                    "value": "Chinese"
+                    "value": "Alphabet"
                 },
                 {
                     "key": "zh",
-                    "value": "文字"
+                    "value": "识字表"
                 }
             ],
             "title": [
                 {
                     "key": "en",
-                    "value": "<Chinese> Grade One A"
+                    "value": "Chinese 1A Alphabet"
                 },
                 {
                     "key": "zh",
-                    "value": "《语文》一年级上册"
+                    "value": "语文一年级上册识字表"
                 }
             ],
             "version": 1,
-            "link": ""
+            "link": "/Chinese/yuwen_1_a_ren.json"
         },
         {
             "image":[
@@ -67,40 +67,7 @@
                     "value": "英文字母表"
                 }
             ],
-            "version": 2,
-            "link": "/English/alphabet.json"
-        },{
-            "image":[
-                {
-                    "key": "en",
-                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
-                },
-                {
-                    "key": "zh",
-                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/English/white.png"
-                }
-            ],
-            "tag": [
-                {
-                    "key": "en",
-                    "value": "English"
-                },
-                {
-                    "key": "zh",
-                    "value": "英语"
-                }
-            ],
-            "title": [
-                {
-                    "key": "en",
-                    "value": "English Alphabet"
-                },
-                {
-                    "key": "zh",
-                    "value": "英文字母表"
-                }
-            ],
-            "version": 2,
+            "version": 1,
             "link": "/English/alphabet.json"
         }
     ]
