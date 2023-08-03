@@ -3,12 +3,12 @@
 ## template
 ```json
 {
-    "update_time": "2023-08-01 03:25:14",
+    "update_time": "2023-08-03 20:47:14",
     "author": "Luna Gao",
     "email": "gao.xue.qi1@gmail.com",
     "support_version": ">=1.0.0 <2.0.0",
     "version": 1,
-    "uuid": "8c8ad22c-345a-4dcb-b751-0f2adf801197", // 可由此生成： https://1024tools.com/uuid
+    "uuid": "0427ff21-add5-468e-ab6e-488dfe7319de", // 可由此生成： https://1024tools.com/uuid
     "image": [
         {
             "key": "en",

@@ -1,0 +1,276 @@
+{
+    "update_time": "2023-08-03 20:47:14",
+    "author": "Luna Gao",
+    "email": "gao.xue.qi1@gmail.com",
+    "support_version": ">=1.0.0 <2.0.0",
+    "version": 1,
+    "uuid": "875b3309-480b-4b26-80a0-97e55ac1c993",
+    "image": [
+        {
+            "key": "en",
+            "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Mathematics/multiplication_table.png"
+        },
+        {
+            "key": "zh",
+            "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Mathematics/multiplication_table.png"
+        }
+    ],
+    "title": [
+        {
+            "key": "en",
+            "value": "Multiplication Table"
+        },
+        {
+            "key": "zh",
+            "value": "乘法口诀表"
+        }
+    ],
+    "tag": [
+        {
+            "key": "en",
+            "value": "Mathematics"
+        },
+        {
+            "key": "zh",
+            "value": "数学"
+        }
+    ],
+    "description": [
+        {
+            "key": "en",
+            "value": "The multiplication formula table is a table formed by multiplying a group of numbers in a regular order. It generally refers to the table of nine-nine multiplication formulas. formula. Multiplication formulas are the basic calculation rules for multiplication, division, and square extraction in ancient Chinese calculations, and they have been used for more than two thousand years."
+        },
+        {
+            "key": "zh",
+            "value": "乘法口诀表是由一组数字按规则的顺序相乘所得之积列成的表，一般指九九乘法口诀表，是从“一一得一”开始，到“九九八十一”的乘法口诀。乘法口诀是中国古代筹算中进行乘法、除法、开方等运算的基本计算规则，沿用至今已有两千多年。"
+        }
+    ],
+    "value_type": [],
+    "values": [
+        {
+            "image": null,
+            "value": "1×1",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×2",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×3",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×4",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×5",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×6",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×7",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "1×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×2",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×3",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×4",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×5",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×6",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×7",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "2×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "3×3",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "3×4",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "3×5",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "3×6",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "3×7",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "3×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "3×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "4×4",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "4×5",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "4×6",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "4×7",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "4×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "4×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "5×5",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "5×6",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "5×7",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "5×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "5×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "6×6",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "6×7",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "6×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "6×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "7×7",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "7×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "7×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "8×8",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "8×9",
+            "type": ""
+        },
+        {
+            "image": null,
+            "value": "9×9",
+            "type": ""
+        }
+    ]
+}

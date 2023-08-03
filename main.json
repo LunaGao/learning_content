@@ -137,6 +137,40 @@
             ],
             "version": 1,
             "link": "/English/alphabet.json"
+        },
+        {
+            "image":[
+                {
+                    "key": "en",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Mathematics/multiplication_table.png"
+                },
+                {
+                    "key": "zh",
+                    "value": "https://remember-hub.oss-cn-beijing.aliyuncs.com/Mathematics/multiplication_table.png"
+                }
+            ],
+            "tag": [
+                {
+                    "key": "en",
+                    "value": "Mathematics"
+                },
+                {
+                    "key": "zh",
+                    "value": "数学"
+                }
+            ],
+            "title": [
+                {
+                    "key": "en",
+                    "value": "Multiplication Table"
+                },
+                {
+                    "key": "zh",
+                    "value": "乘法口诀表"
+                }
+            ],
+            "version": 1,
+            "link": "/Mathematics/multiplication_table.json"
         }
     ]
 }
